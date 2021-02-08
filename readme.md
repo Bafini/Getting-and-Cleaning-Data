@@ -1,6 +1,7 @@
 # Getting and Cleaning Data Project
 Author: Pedro Fonseca <br />
 Date: February 2021
+
 Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
 ## Goal of the Project
